@@ -1,0 +1,12 @@
+{
+  "name": "tideApp",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular-bootstrap": "latest",
+    "tide-angular": "latest",
+    "modernizr": "latest",
+    "d3-tip": "latest",
+    "angularitics": "latest",
+    "bootstrap": "latest"
+  }
+}
